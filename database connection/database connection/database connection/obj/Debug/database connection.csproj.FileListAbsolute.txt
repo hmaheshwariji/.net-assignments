@@ -1,0 +1,12 @@
+D:\DOT-NET Program\database connection\database connection\bin\Debug\database connection.exe.config
+D:\DOT-NET Program\database connection\database connection\bin\Debug\database connection.exe
+D:\DOT-NET Program\database connection\database connection\bin\Debug\database connection.pdb
+D:\DOT-NET Program\database connection\database connection\obj\Debug\database connection.csproj.AssemblyReference.cache
+D:\DOT-NET Program\database connection\database connection\obj\Debug\database_connection.Form1.resources
+D:\DOT-NET Program\database connection\database connection\obj\Debug\database_connection.Properties.Resources.resources
+D:\DOT-NET Program\database connection\database connection\obj\Debug\database connection.csproj.GenerateResource.cache
+D:\DOT-NET Program\database connection\database connection\obj\Debug\database connection.csproj.CoreCompileInputs.cache
+D:\DOT-NET Program\database connection\database connection\obj\Debug\database connection.exe
+D:\DOT-NET Program\database connection\database connection\obj\Debug\database connection.pdb
+D:\DOT-NET Program\database connection\database connection\obj\Debug\database connection.exe.config
+D:\DOT-NET Program\database connection\database connection\obj\Debug\database_connection.Form2.resources
