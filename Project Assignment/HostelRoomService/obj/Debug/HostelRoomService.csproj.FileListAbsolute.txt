@@ -1,0 +1,2 @@
+D:\C#\HostelRoomService\obj\Debug\HostelRoomService.csproj.AssemblyReference.cache
+D:\C#\HostelRoomService\obj\Debug\HostelRoomService.csproj.CoreCompileInputs.cache

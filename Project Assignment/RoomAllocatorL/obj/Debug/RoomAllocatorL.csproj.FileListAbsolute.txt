@@ -1,0 +1,6 @@
+D:\C#\RoomAllocatorL\bin\Debug\RoomAllocatorL.dll
+D:\C#\RoomAllocatorL\bin\Debug\RoomAllocatorL.pdb
+D:\C#\RoomAllocatorL\obj\Debug\RoomAllocatorL.csproj.AssemblyReference.cache
+D:\C#\RoomAllocatorL\obj\Debug\RoomAllocatorL.csproj.CoreCompileInputs.cache
+D:\C#\RoomAllocatorL\obj\Debug\RoomAllocatorL.dll
+D:\C#\RoomAllocatorL\obj\Debug\RoomAllocatorL.pdb
